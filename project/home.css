@@ -6,6 +6,11 @@
      padding: 30px;
      flex-direction: column;
  }
+ .topbar1{
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+ }
  *{
     scroll-behavior: smooth;
  }
